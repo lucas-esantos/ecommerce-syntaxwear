@@ -1,0 +1,1 @@
+// JavaScript do ecommerce SyntaxWear
