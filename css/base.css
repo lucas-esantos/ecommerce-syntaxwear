@@ -1,3 +1,4 @@
-/* ========================================
-   BASE - Reset e Estilos Globais
-   ======================================== */
+body {
+  font-family: var(--fonte-principal);
+  color: #333333;
+}
